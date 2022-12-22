@@ -1,6 +1,7 @@
 {
   "name": "react18_ts_music",
   "version": "0.1.0",
+  "homepage": "https://python0base.github.io/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
