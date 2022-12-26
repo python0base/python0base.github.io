@@ -1,5 +1,5 @@
 // 1.手动切换
-export const BASE_URL = 'http://codercba.com:9002'
+export const BASE_URL = 'https://netease-cloud-music-api-blond-chi.vercel.app'
 // export const BASE_URL = 'http://codercba.prod:9002'
 export const TIME_OUT = 10000
 
